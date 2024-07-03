@@ -63,6 +63,11 @@ For the purpose of this guide, I have created a new Team in Microsoft Teams call
 21) Press OK in the bottom right corner of the window. 
 
 ### Deploying the Azure Automation Runbook
+1) Navigate to the [Azure Portal](https://portal.azure.com/)
+2) Find a suitable Azure subscription to use.
+3) Make a note of the Subscription ID, we'll need this later
+4) In the search bar, search for **"Automation Accounts"**
+5) Select **"Automation Accounts"** from the dropdown list. 
 
 ### Deploying the Power App Solution
 
