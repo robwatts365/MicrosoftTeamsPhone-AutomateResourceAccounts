@@ -130,7 +130,7 @@ For the purpose of this guide, I have created a new Team in Microsoft Teams call
       <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/66ec27aa-7e1f-4f6b-915f-52730d791492" width="200" />
 
 26) Click **Import Runbook**  
-      <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/8003706f-6862-4771-aafc-3ee23b25d268" width="200" />
+      <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/8003706f-6862-4771-aafc-3ee23b25d268" width="400" />
 
 27) For **Runbook file**, select the downloaded [runbook](ResourceAccountCreation.ps1) file. 
 28) **Runbook type** should be set to **PowerShell**
@@ -139,7 +139,7 @@ For the purpose of this guide, I have created a new Team in Microsoft Teams call
      <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/93082d0e-d909-46ef-8b1c-ea4cae1d79d9" width="200" />
 
 31) Once impoted, click **Publish**.  
-      <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/6fbebe60-e9c1-40fd-968f-a4a09db4fcab" width="200" />
+      <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/6fbebe60-e9c1-40fd-968f-a4a09db4fcab" width="400" />
 
 
 ### Deploying the Power App Solution
