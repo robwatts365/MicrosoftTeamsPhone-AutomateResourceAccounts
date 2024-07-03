@@ -29,15 +29,15 @@ For the purpose of this guide, I have created a new Team in Microsoft Teams call
 1) Navigate to the SharePoint site you have chosen to host the SharePoint list. 
 2) Click the "+ New" button.
 3) Select "List".
-   <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/ba3a4aab-843c-4bb3-ba72-ae507f6d269b" width="200" />
+  <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/ba3a4aab-843c-4bb3-ba72-ae507f6d269b" width="200" />
      
-5) Select "Blank List".
+5) Select "Blank List".  
    <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/416784dc-ff44-4f39-aa24-94d63c5efdc4" width="200" />
 
 7) Give your list an appropriate name (I'm using ResourceAccounts)  
    <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/9129e764-9327-4041-9601-0976c22507ff" width="200" />
 
-9) Once created, click the gear in the top right hand corner, and select List settings.
+9) Once created, click the gear in the top right hand corner, and select List settings.  
    <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/96b895d8-1e3a-41c1-a61d-8cfaaf4c1fa5" width="200" />
 
 11) Under Columns, select the "Title" column.
