@@ -39,7 +39,7 @@ For the purpose of this guide, I have created a new Team in Microsoft Teams call
 
 6) Once created, click the gear in the top right hand corner, and select List settings.  
    <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/96b895d8-1e3a-41c1-a61d-8cfaaf4c1fa5" width="200" />
-
+   
 7) Under Columns, select the "Title" column.
    <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/20f6e588-d1c8-4ebd-917b-140333d1e52a" width="200" /> 
 8) Rename the column's name to "ResourceAccountName".
