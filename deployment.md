@@ -37,11 +37,11 @@ For the purpose of this guide, I have created a new Team in Microsoft Teams call
 6) Once created, click the gear in the top right hand corner, and select List settings.  
    <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/96b895d8-1e3a-41c1-a61d-8cfaaf4c1fa5" width="200" />
 7) Under Columns, select the "Title" column.  
-   <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/20f6e588-d1c8-4ebd-917b-140333d1e52a" width="200" /> 
+   <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/20f6e588-d1c8-4ebd-917b-140333d1e52a" width="200" />
 8) Rename the column's name to "ResourceAccountName".
 9) Toggle "Require that this column contains information" to Yes.
 10) Toggle "Enforce unique values" to Yes.  
-   <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/766a317d-d0e7-4c90-8074-4ff2f1709158" width="200" />  
+   <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/766a317d-d0e7-4c90-8074-4ff2f1709158" width="200" />
 11) Press OK in the bottom right corner of the window.
 12) Click "Create column".  
    <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/4fe05ec4-10e4-4636-9a67-5fed6121dffc" width="200" />
