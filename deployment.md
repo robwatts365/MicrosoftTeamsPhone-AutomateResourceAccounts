@@ -50,21 +50,21 @@ For the purpose of this guide, I have created a new Team in Microsoft Teams call
    
 11) Press OK in the bottom right corner of the window.
 12) Click "Create column".  
-   <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/4fe05ec4-10e4-4636-9a67-5fed6121dffc" width="200" />
+      <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/4fe05ec4-10e4-4636-9a67-5fed6121dffc" width="200" />
    
 14) Name the column "ResourceAccountDisplayName".
 15) Toggle "Require that this column contains information" to Yes.  
-   <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/8a8244d5-fb52-4a8f-a2bb-b2482959665c" width="200" />
+      <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/8a8244d5-fb52-4a8f-a2bb-b2482959665c" width="200" />
    
 16) Press OK in the bottom right corner of the window. Click "Create column".
 17) Click "Create column".  
-   <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/4fe05ec4-10e4-4636-9a67-5fed6121dffc" width="200" />
+      <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/4fe05ec4-10e4-4636-9a67-5fed6121dffc" width="200" />
    
 18) For **The type of information in this column is**, select "Choice".
 19) Name the column "ResourceAccountDisplayType".
 20) Toggle "Require that this column contains information" to Yes.
 21) In the **Type each choice on a separate line:** box, add CallQueue and AutoAttendant on separate lines.  
-   <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/98bb851d-83f3-4c8b-91b5-984c23f22a9c" width="200" />
+      <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/98bb851d-83f3-4c8b-91b5-984c23f22a9c" width="200" />
    
 22) Press OK in the bottom right corner of the window.
 
