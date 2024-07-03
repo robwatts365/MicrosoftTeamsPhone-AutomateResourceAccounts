@@ -29,7 +29,7 @@ For the purpose of this guide, I have created a new Team in Microsoft Teams call
 1) Navigate to the SharePoint site you have chosen to host the SharePoint list. 
 2) Click the "+ New" button.
 3) Select "List".
-  <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/ba3a4aab-843c-4bb3-ba72-ae507f6d269b" width="200" />
+   <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/ba3a4aab-843c-4bb3-ba72-ae507f6d269b" width="200" />
      
 5) Select "Blank List".  
    <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/416784dc-ff44-4f39-aa24-94d63c5efdc4" width="200" />
@@ -54,7 +54,7 @@ For the purpose of this guide, I have created a new Team in Microsoft Teams call
 
 21) Name the column "ResourceAccountDisplayName".
 23) Toggle "Require that this column contains information" to Yes.
- <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/8a8244d5-fb52-4a8f-a2bb-b2482959665c" width="200" />
+   <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/8a8244d5-fb52-4a8f-a2bb-b2482959665c" width="200" />
 
 25) Press OK in the bottom right corner of the window. Click "Create column".  
 26) Click "Create column".
