@@ -31,7 +31,9 @@ Organisations that utilize those Teams roles will require Administrators with us
 
 Built using the Power Platform and Azure Automation runbooks, this solution takes Resource Account details added to a SharePoint and creates a Voice Application Instance in Microsoft Teams, these accounts are used for voice apps such as Call Queues and Auto-Attendants.
 
-An Azure Automation runbook is used to automate this process, so Administrators are not required to be given the User Admin role. 
+An Azure Automation runbook is used to automate this process, so Administrators are not required to be given the User Admin role.
+
+The user who created the entry in the SharePoint list, is then sent a message in Teams to confirm the account has been created. 
 
  > [!NOTE]
   >  Be sure to use the [Unmanaged Solution](ExtendEmergencyCallingNotifications_unmanaged.zip)  if you are looking to make changes to the solution.  
