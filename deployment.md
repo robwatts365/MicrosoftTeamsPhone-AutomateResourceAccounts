@@ -73,7 +73,42 @@ For the purpose of this guide, I have created a new Team in Microsoft Teams call
 2) Find a suitable Azure subscription to use.
 3) Make a note of the Subscription ID, we'll need this later
 4) In the search bar, search for **"Automation Accounts"**
-5) Select **"Automation Accounts"** from the dropdown list. 
+5) Select **"Automation Accounts"** from the dropdown list.
+6) Click **+ Create**
+7) Select the Subscription, Resource Group and give the Automation Account a name. 
+8) Select the appropriate region. 
+9) Click **Review + Create**.
+    
+> [!TIP]
+  > Remember to make a note of the following **(We'll need these later.)**:
+  > 1) Subscription ID
+  > 2) Resource Group name
+  > 3) Automation account name   
+
+10) Once create, go to the newly created Automation Account.
+11) In the menu, under **Shared Resources**, go to **Modules**. 
+12) Select **Add a module**.
+13) Choose the **Browse from Gallery** radio button.
+14) Click **Click here to browse from gallery**
+15) In the Search bar, type **MicrosoftTeams**, and click enter. 
+16) Select **MicrosoftTeams**.
+17) Click **Select**.
+18) For **Runtime version**, select 5.1.
+19) Click Import. 
+20) Next, under **Shared Resources**, navigate to **Credentials**.
+21) Click **Add a credential**.
+22) For the name, enter **"ResourceAccountCreation"**.
+23) Enter the Username (UPN), and password for the Service Account detailed in the pre-requisites.
+24) Click **Save**.
+25) Download a copy of the [runbook](ResourceAccountCreation.ps1) locally. 
+26) Under **Process Automation** in the menu, navigate to **Runbooks**.
+27) Click **Import Runbook**
+28) For **Runbook file**, select the downloaded [runbook](ResourceAccountCreation.ps1) file. 
+29) **Runbook type** should be set to **PoweerShell**
+30) For **Runtime version** select **5.1**.
+31) Click **Import**.
+32) Once impoted, click **Publish**.
+
 
 ### Deploying the Power App Solution
 
