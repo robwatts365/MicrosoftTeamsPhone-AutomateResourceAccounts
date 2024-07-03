@@ -151,17 +151,17 @@ For the purpose of this guide, I have created a new Team in Microsoft Teams call
    | [Unmanaged Solution](ResourceAccountCreation_unmanaged.zip) | If you're looking to tweek the solution. |  
 2) Nagivate to [Power Apps](https://make.powerapps.com/). Remember to sign in with the **Service Account** detailed in the pre-requisites. 
 3) From the left rail, select **Solutions**  
-4) Select "Import Solution"
-   ![image](https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/962f323c-25ce-4f4d-b15a-a7297aee5327)
+4) Select "Import Solution"  
+      <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/962f323c-25ce-4f4d-b15a-a7297aee5327" width="400" />
  
-6) Click "Browse"
-   ![image](https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/da1c5177-1c2c-4c11-9dd4-3efaaeb66d48)
+6) Click "Browse"  
+      <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/da1c5177-1c2c-4c11-9dd4-3efaaeb66d48" width="400" />
 
 8) Select the downloaded solution. 
 9)  Click "Next"
 10)  Click "Next" again. 
-11)  Verify and sign in to the connectors.
-![image](https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/bba160ac-07bc-4414-9b66-1c27ac23ac5c)
+11)  Verify and sign in to the connectors.  
+      <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/bba160ac-07bc-4414-9b66-1c27ac23ac5c" width="400" />
   
 13) Click "Next"
 14) On the Environment Variables page, enter the variables requested.
