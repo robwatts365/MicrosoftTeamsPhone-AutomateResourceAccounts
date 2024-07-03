@@ -27,8 +27,8 @@ Thank you for using this project and I hope you find it useful and helpful. 😊
 * A **Service Account** with: 
     * An appropriate license for:
       * Power Automate Premium Connectors or you could opt for
-    *  [Power Platform PAYG.](https://learn.microsoft.com/en-us/power-platform/admin/pay-as-you-go-overview) 
-      * SharePoint
+        [Power Platform PAYG.](https://learn.microsoft.com/en-us/power-platform/admin/pay-as-you-go-overview)
+      *  SharePoint
     * The following admin roles:
       *	Either **Teams Telephony Administrator**, **Teams Communication Administrator** or **Teams Administrator** role.
       * **User Admin** role
