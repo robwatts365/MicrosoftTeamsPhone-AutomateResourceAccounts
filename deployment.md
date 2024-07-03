@@ -164,9 +164,17 @@ For the purpose of this guide, I have created a new Team in Microsoft Teams call
 ![image](https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/bba160ac-07bc-4414-9b66-1c27ac23ac5c)
   
 13) Click "Next"
-14) On the Environment Variables page, enter the variables requested
-18) Click "Import".
+14) On the Environment Variables page, enter the variables requested.
+    1)  resource_AzSubscriptionID - Enter the Subscription ID from Azure
+    2)  resource_AzResourceGroupName - Enter the name of the Resource Group
+    3)  resource_AzAutomationAccount - Enter the Automation Account Name
+    4)  resource_AzRunbookName - Enter the Runbook Name
+    5)  resource_Resource Account Domain - Enter the domain you wish your Resource Account to use (eg. contoso.com)
+    6)  resource_SPOSite - select the SharePoint site where your list resides.
+    7)  resource_SPOList - select your list
+15) Click "Import".
 
+The solution is now deployed and ready to use! 
 
 ## Page info
 
