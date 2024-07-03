@@ -86,11 +86,11 @@ For the purpose of this guide, I have created a new Team in Microsoft Teams call
       <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/fbff2a83-5162-4e33-a82c-46f85ce9b32a" width="200" />
 
     
-   > [!TIP]
-     > Remember to make a note of the following **(We'll need these later.)**:
-     > 1) Subscription ID
-     > 2) Resource Group name
-     > 3) Automation account name   
+> [!TIP]
+   > Remember to make a note of the following **(We'll need these later.)**:
+> 1) Subscription ID
+> 2) Resource Group name
+> 3) Automation account name   
 
 9) Once create, go to the newly created Automation Account.
 10) In the menu, under **Shared Resources**, go to **Modules**.
