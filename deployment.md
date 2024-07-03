@@ -49,7 +49,7 @@ For the purpose of this guide, I have created a new Team in Microsoft Teams call
    <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/766a317d-d0e7-4c90-8074-4ff2f1709158" width="200" />
    
 11) Press OK in the bottom right corner of the window.
-12) Click "Create column".
+12) Click "Create column".  
    <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/4fe05ec4-10e4-4636-9a67-5fed6121dffc" width="200" />
    
 14) Name the column "ResourceAccountDisplayName".
