@@ -71,13 +71,20 @@ For the purpose of this guide, I have created a new Team in Microsoft Teams call
 ### Deploying the Azure Automation Runbook
 1) Navigate to the [Azure Portal](https://portal.azure.com/)
 2) Find a suitable Azure subscription to use.
-3) Make a note of the Subscription ID, we'll need this later
-4) In the search bar, search for **"Automation Accounts"**
-5) Select **"Automation Accounts"** from the dropdown list.
-6) Click **+ Create**
+3) In the search bar, search for **"Automation Accounts"**
+4) Select **"Automation Accounts"** from the dropdown list.
+      <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/8e6afdc7-ff22-4d86-9fc2-bd52fee65711" width="200" />
+
+6) Click **+ Create**  
+      <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/c4b0840e-260b-4f81-8f2e-e0e9d5cd76c5" width="200" />
+
 7) Select the Subscription, Resource Group and give the Automation Account a name. 
-8) Select the appropriate region. 
+8) Select the appropriate region.  
+      <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/cbaab9e1-855a-4b03-8d00-34806c65a706" width="200" />
+
 9) Click **Review + Create**.
+      <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/fbff2a83-5162-4e33-a82c-46f85ce9b32a" width="200" />
+
     
 > [!TIP]
   > Remember to make a note of the following **(We'll need these later.)**:
@@ -86,28 +93,53 @@ For the purpose of this guide, I have created a new Team in Microsoft Teams call
   > 3) Automation account name   
 
 10) Once create, go to the newly created Automation Account.
-11) In the menu, under **Shared Resources**, go to **Modules**. 
+11) In the menu, under **Shared Resources**, go to **Modules**.
+      <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/f4fb3a59-b75d-4933-a50c-c923809c4de2" width="200" />
+ 
 12) Select **Add a module**.
 13) Choose the **Browse from Gallery** radio button.
 14) Click **Click here to browse from gallery**
+      <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/11e34e55-00f0-433f-a974-dd304db181c4" width="200" />
+
 15) In the Search bar, type **MicrosoftTeams**, and click enter. 
 16) Select **MicrosoftTeams**.
+      <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/59337a49-156a-4cd9-9654-68d331fea1c8" width="200" />
+
 17) Click **Select**.
+      <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/2491b582-bb33-45c9-8d31-5089d8765782" width="200" />
+
 18) For **Runtime version**, select 5.1.
-19) Click Import. 
+      <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/3c39e2a4-9092-4300-b9a2-d0f142b8791b" width="200" />
+
+19) Click Import.
+      <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/3ea5f6f1-8eae-41fd-8e9c-c212b0ad6c72" width="200" />
+
 20) Next, under **Shared Resources**, navigate to **Credentials**.
+      <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/54ddc787-8c95-4507-8b86-ad5d2f785588" width="200" />
+
 21) Click **Add a credential**.
+    <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/333055cc-c515-454d-9d0d-b44c614cc7db" width="200" />
+
 22) For the name, enter **"ResourceAccountCreation"**.
 23) Enter the Username (UPN), and password for the Service Account detailed in the pre-requisites.
 24) Click **Save**.
+      <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/0c453050-e8fd-46b1-b97f-d4af69d713fb" width="200" />
+
 25) Download a copy of the [runbook](ResourceAccountCreation.ps1) locally. 
 26) Under **Process Automation** in the menu, navigate to **Runbooks**.
+      <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/66ec27aa-7e1f-4f6b-915f-52730d791492" width="200" />
+
 27) Click **Import Runbook**
+      <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/8003706f-6862-4771-aafc-3ee23b25d268" width="200" />
+
 28) For **Runbook file**, select the downloaded [runbook](ResourceAccountCreation.ps1) file. 
-29) **Runbook type** should be set to **PoweerShell**
+29) **Runbook type** should be set to **PowerShell**
 30) For **Runtime version** select **5.1**.
 31) Click **Import**.
+     <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/93082d0e-d909-46ef-8b1c-ea4cae1d79d9" width="200" />
+
 32) Once impoted, click **Publish**.
+      <img src="https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/assets/65971102/6fbebe60-e9c1-40fd-968f-a4a09db4fcab" width="200" />
 
 
 ### Deploying the Power App Solution
