@@ -21,11 +21,7 @@ The “Teams Administrator”, “Teams Communications Administrator” and “T
 Organisations that utilize those Teams roles will require Administrators with user creation permission such as Microsoft 365 Global Admin or User Admin to create and manage these Resource Accounts.
 
 ## Benefits
-* Extend Emergency Call notifications beyond a Teams Group Chat, including:
-  * Email 
-  * SMS (through Azure Communication Service)
-  * Using 3rd Party solutions, available as Power Automate connectors. 
-* Deliver Emergency call notifications dynamically dependant on location. (or other criteria)
+* Reduction in requirement for highly elevated roles in an RBAC model
 
 ## How it works
 
