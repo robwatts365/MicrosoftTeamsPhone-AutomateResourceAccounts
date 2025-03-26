@@ -1,4 +1,4 @@
-# Extend Emergency Calling with the Power Platform
+# Automate Resource Account creation with Power Automate and Azure Automation
 
 | [Home](README.md) | [About](about.md) |[Deployment Guide](deployment.md) | [Support](support.md) | 
 | --- | --- | --- | --- |
