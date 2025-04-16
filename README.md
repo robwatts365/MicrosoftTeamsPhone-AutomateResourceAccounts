@@ -4,7 +4,7 @@
 | --- | --- | --- | --- |
 
 ## Background
-As per [MC780743](https://admin.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC780743), Microsoft is changing the permissions required to create resource accounts for Teams Phone voice applications. 
+As per [MC780743](https://portal.changepilot.cloud/MC780743), Microsoft is changing the permissions required to create resource accounts for Teams Phone voice applications. 
 
 Starting mid-July 2024, only Microsoft 365 Global Admins or User Admins will be able to create and manage these accounts, impacting users with specific Teams admin roles. Organisations are advised to prepare by adjusting their processes accordingly.
 
@@ -16,7 +16,7 @@ Organisations that utilize those Teams roles will require Administrators with us
 
 
 ## Supporting Documentation
-* [MC780743](https://admin.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC780743)
+* [MC780743](https://portal.changepilot.cloud/MC780743)
 
 ## Support
 If you encounter any bugs or issues while using the scripts, please raise them as issues [here](https://github.com/robwatts365/MicrosoftTeamsPhone-AutomateResourceAccounts/issues) in this GitHub repository. You can also submit pull requests with your suggestions or improvements to the code. The project team appreciates your feedback and support. 
